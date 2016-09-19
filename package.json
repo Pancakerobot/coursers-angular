@@ -1,0 +1,28 @@
+{
+  "name": "coursers-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pancakerobot/coursers-angular.git"
+  },
+  "author": "Tomas Prieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pancakerobot/coursers-angular/issues"
+  },
+  "homepage": "https://github.com/Pancakerobot/coursers-angular#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.7",
+    "gulp": "^3.9.1",
+    "normalize": "^0.3.1"
+  }
+}
